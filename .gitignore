@@ -1,5 +1,6 @@
 # ENV
 .venv/
+venv/
 
 # misc
 .vscode/
